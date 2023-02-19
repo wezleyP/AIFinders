@@ -1,0 +1,257 @@
+[
+
+   {
+      "id": 1,
+      "use": "writing",
+      "name": "Chat GPT",
+      "imageAdress": "https://tse1.mm.bing.net/th?id=OIP.G4lhQEYSOQbXVks33TRPHQAAAA&pid=Api&P=0",
+      "url": "https://openai.com/blog/chatgpt/"
+   },
+   {
+      "id": 2,
+      "use": "email",
+      "name": "SuperHuman",
+      "imageAdress": "https://tse2.mm.bing.net/th?id=OIP.Kr72PmMeFH0paSt72LsRCgHaEr&pid=Api&P=0",
+      "url": "https://superhuman.com/"
+   },
+   {
+      "id": 3,
+      "use": "image",
+      "name": "Lensa",
+      "imageAdress": "https://prisma-ai.com/images/lensa-app-icon.svg",
+      "url": "https://prisma-ai.com/lensa"
+   },
+   {
+      "id": 4,
+      "use": "email",
+      "name": "copy.ai",
+      "imageAdress": "https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/62828ef38380777cb33cdf29_5f579853dab605076f3cbf3f_logo.svg",
+      "url": "https://www.copy.ai/?via=start"
+   },
+   {
+      "id": 5,
+      "use": "search",
+      "name": "perplexity",
+      "imageAdress": "https://tse1.mm.bing.net/th?id=OIP.rLaSw8CpQnGCWi6zA36fGAHaFj&pid=Api&P=0",
+      "url": "https://www.perplexity.ai/"
+   },
+   {
+      "id": 6,
+      "use": "paraphrasing",
+      "name": "paraphraser.ai",
+      "imageAdress": "https://tse1.mm.bing.net/th?id=OIP.XDxShGanlQnlPuEoeNM7TgHaEW&pid=Api&P=0",
+      "url": "https://paraphraser.ai/"
+   },
+   {
+      "id": 7,
+      "use": "website",
+      "name": "sitekick",
+      "imageAdress": "https://tse1.mm.bing.net/th?id=OIP.uQADWkTJG8LD2cAqT-GBUgHaDt&pid=Api&P=0",
+      "url": "https://www.sitekick.ai/"
+   },
+   {
+      "id": 8,
+      "use": "image",
+      "name": "ebsynth",
+      "imageAdress": "https://tse2.mm.bing.net/th?id=OIP.vwk0Bak75ihEFu2M0Jo3WAHaEK&pid=Api&P=0",
+      "url": "https://ebsynth.com/"
+   },
+   {
+      "id": 9,
+      "use": "music",
+      "name": "beethoven",
+      "imageAdress": "https://tse1.mm.bing.net/th?id=OIP.Mw0blwD9Gnq4ywm3k1YgdAHaFj&pid=Api&P=0",
+      "url": "https://www.beatoven.ai/"
+   },
+   {
+      "id": 10,
+      "use": "video",
+      "name": "turborender",
+      "imageAdress": "https://turborender.com/tmpl/images/logo_black.svg",
+      "url": "https://turborender.com/"
+   },
+   {
+      "id": 11,
+      "use": "animation",
+      "name": "move.ai",
+      "imageAdress": "https://tse3.mm.bing.net/th?id=OIP.NpGtO9mvxYIKA6lE4uf46AHaEK&pid=Api&P=0",
+      "url": "https://www.move.ai/"
+   },
+   {
+      "id": 13,
+      "use": "video",
+      "name": "runway",
+      "imageAdress": "https://tse4.mm.bing.net/th?id=OIP.mGkLEVXnZeOE-_GLrmWPOAHaDn&pid=Api&P=0",
+      "url": "https://runwayml.com/"
+   },
+   {
+      "id": 14,
+      "use": "3D",
+      "name": "metahuman",
+      "imageAdress": "https://tse1.mm.bing.net/th?id=OIP.K_x0WlxDAGPA-z5kY89QtwHaEK&pid=Api&P=0",
+      "url": "https://www.unrealengine.com/en-US/metahuman"
+   },
+   {
+      "id": 15,
+      "use": "business",
+      "name": "peak.ai",
+      "imageAdress": "https://tse1.mm.bing.net/th?id=OIP.RNKuzAOe42CKphZAAHwa1wHaE8&pid=Api&rs=1&c=1&qlt=95&w=187&h=124",
+      "url": "https://peak.ai/?utm_term=h20%20ai&utm_campaign=Competitors&utm_source=bing&utm_medium=ppc&hsa_tgt=kwd-72568503061986%3Aloc-190&hsa_grp=1161085379199670&hsa_src=o&hsa_net=adwords&hsa_mt=b&hsa_ver=3&hsa_ad&hsa_acc=3111017656&hsa_kw=h20%20ai&hsa_cam=16816208819"
+   },
+   {
+      "id": 16,
+      "use": "music",
+      "name": "boomy",
+      "imageAdress": "https://tse4.mm.bing.net/th?id=OIP.s5L5sidgxQVGy0IFNOk6ngHaD3&pid=Api&P=0",
+      "url": "https://boomy.com/"
+   },
+   {
+      "id": 17,
+      "use": "speech",
+      "name": "fakeYou",
+      "imageAdress": "https://tse3.mm.bing.net/th?id=OIP.mXmM5gTbNpVdU0Yr9qC76QAAAA&pid=Api&P=0",
+      "url": "https://fakeyou.com/"
+   },
+   {
+      "id": 18,
+      "use": "writing",
+      "name": "flowcv",
+      "imageAdress": "https://tse2.mm.bing.net/th?id=OIP.8C-tOVpZAVCPvx-eAqP-2gAAAA&pid=Api&P=0",
+      "url": "https://flowcv.com/"
+   },
+   {
+      "id": 19,
+      "use": "image",
+      "name": "designify",
+      "imageAdress": "https://www.designify.com/designify_logo_color_dark.svg",
+      "url": "https://www.designify.com/"
+   },
+   {
+      "id": 20,
+      "use": "business",
+      "name": "renderforest",
+      "imageAdress": "https://tse1.mm.bing.net/th?id=OIP.H2binQS_SCELZW2CA4CJRAHaEH&pid=Api&P=0",
+      "url": "https://www.renderforest.com/#Videos"
+   },
+   {
+      "id": 21,
+      "use": "business",
+      "name": "huemint",
+      "imageAdress": "https://tse1.mm.bing.net/th?id=OIP.qd0RK0U-9bvcDTzaDu9N9gHaFj&pid=Api&P=0",
+      "url": "https://huemint.com/"
+   },
+   {
+      "id": 22,
+      "use": "writing",
+      "name": "rytr",
+      "imageAdress": "https://storage.googleapis.com/rytr-me/public/image/logo.svg",
+      "url": "https://rytr.me/"
+   },
+   {
+      "id": 23,
+      "use": "audio",
+      "name": "vocalremover",
+      "imageAdress": "https://tse3.mm.bing.net/th?id=OIP.MK_af6Vcwu82Ck_oftCrawHaEv&pid=Api&P=0",
+      "url": "https://vocalremover.org/"
+   },
+   {
+      "id": 24,
+      "use": "video",
+      "name": "pictory",
+      "imageAdress": "https://mlrdjua3hhlu.i.optimole.com/cb:gO3x.62b97/w:auto/h:auto/q:mauto/f:avif/https://pictory.ai/wp-content/uploads/2022/08/logo-new-font-TM.png",
+      "url": "https://pictory.ai/"
+   },
+   {
+      "id": 25,
+      "use": "image",
+      "name": "faceswapper.ai",
+      "imageAdress": "https://tse2.mm.bing.net/th?id=OIP._KaiZ9UFHGZX4utw9p9_GQHaE-&pid=Api&P=0",
+      "url": "https://faceswapper.ai/"
+   },
+   {
+      "id": 26,
+      "use": "writing",
+      "name": "resumeworded",
+      "imageAdress": "https://tse4.mm.bing.net/th?id=OIP.mGkLEVXnZeOE-_GLrmWPOAHaDn&pid=Api&P=0",
+      "url": "https://resumeworded.com/"
+   },
+   {
+      "id": 27,
+      "use": "writing",
+      "name": "onceuponabot",
+      "imageAdress": "https://tse4.mm.bing.net/th?id=OIP.IznjBapV734U4bQ7RiKidwHaHa&pid=Api&P=0",
+      "url": "https://onceuponabot.com/"
+   },
+   {
+      "id": 28,
+      "use": "image",
+      "name": "clipdrop-relight",
+      "imageAdress": "https://tse2.mm.bing.net/th?id=OIP.QoTs472GoeCxrmBjUZSyfQHaEL&pid=Api&P=0",
+      "url": "https://clipdrop.co/relight"
+   },
+   {
+      "id": 29,
+      "use": "video",
+      "name": "unscreen",
+      "imageAdress": "https://www.unscreen.com/unscreen_pro.jpg",
+      "url": "https://www.unscreen.com/"
+   },
+   {
+      "id": 30,
+      "use": "image",
+      "name": "animateddrawings",
+      "imageAdress": "https://tse2.mm.bing.net/th?id=OIP.pI_9Igql-Iz220U3l7Cy_QAAAA&pid=Api&P=0",
+      "url": "https://sketch.metademolab.com/"
+   },
+   {
+      "id": 31,
+      "use": "writing",
+      "name": "versebyverse",
+      "imageAdress": "https://tse4.mm.bing.net/th?id=OIP.aIHEto2EDV0i91UcRby54gAAAA&pid=Api&P=0",
+      "url": "https://sites.research.google/versebyverse/"
+   },
+   {
+      "id": 33,
+      "use": "image",
+      "name": "scenario.gg",
+      "imageAdress": "https://uploads-ssl.webflow.com/63726e12f3d9cb7e3ce1e488/637541cb2be0e92b99c959cf_256.png",
+      "url": "https://www.scenario.gg/"
+   },
+   {
+      "id": 34,
+      "use": "image",
+      "name": "leiapix",
+      "imageAdress": "https://convert.leiapix.com/assets/leiapix_logo.fc837261.svg",
+      "url": "https://convert.leiapix.com/"
+   },
+   {
+      "id": 35,
+      "use": "speech",
+      "name": "wellsaid",
+      "imageAdress": "https://wellsaidlabs.com/wp-content/uploads/2022/03/main-logo.svg",
+      "url": "https://wellsaidlabs.com/"
+   },
+   {
+      "id": 36,
+      "use": "image",
+      "name": "midjourney",
+      "imageAdress": "https://tse1.mm.bing.net/th?id=OIP.f-MZRljMiBEgNaiqava3MgHaFE&pid=Api&P=0",
+      "url": "https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F"
+   },
+   {
+      "id": 37,
+      "use": "image",
+      "name": "lexica",
+      "imageAdress": "https://tse4.mm.bing.net/th?id=OIP.mGkLEVXnZeOE-_GLrmWPOAHaDn&pid=Api&P=0",
+      "url": "https://lexica.art/"
+   },
+   {
+      "id": 38,
+      "use": "writing",
+      "name": "synthesia",
+      "imageAdress": "https://assets-global.website-files.com/61dc0796f359b6145bc06ea6/61dc4887c7d00a2f74b0a0af_synthesia-logo.svg",
+      "url": "https://www.synthesia.io/?utm_campaign=Bing%20Synthesia&utm_source=ppc&utm_medium=BING+SYNTHESIAm=SYNTHESIA&utm_content=SYNTHESIA&msclkid=14c5547cf99b18b28faa37c7cad25146"
+   }
+
+
+]
